@@ -1,0 +1,2 @@
+# Android-App-Store-Analysis
+In this **Jupyter Notebook** I used **Python** to analyze a CSV including Data scraped from the Android App Store. Using that Data, the **pandas** library and the **matplotlib** library, I checked certain trends and general information of the Dataset. I checked the category of apps with the most apps produced, most apps downloaded and created diagrams to understand how more free game downloads there are than paid games and much more. I commented everything I did with markup, so the document is pretty self explanatory.
